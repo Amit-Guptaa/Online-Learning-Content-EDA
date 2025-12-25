@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Amit-Guptaa/Online-Learning-Content-EDA/blob/main/Online_Learning_Content_EDA.ipynb)
+
 # Online Learning Platform Content Upload Analysis
 
 ## Project Type
