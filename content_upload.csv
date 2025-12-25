@@ -1,0 +1,16 @@
+content_id,upload_date,category,instructor,duration_minutes,views
+C001,2023-01-05,Programming,Amit,45,1200
+C002,2023-01-12,Data Science,Riya,60,1500
+C003,2023-02-03,Programming,Rahul,50,1800
+C004,2023-02-20,Design,Neha,40,900
+C005,2023-03-10,Data Science,Amit,70,2200
+C006,2023-03-25,Programming,Riya,55,2000
+C007,2023-04-02,Design,Rahul,35,800
+C008,2023-04-18,Programming,Neha,65,2500
+C009,2023-05-05,Data Science,Amit,75,3000
+C010,2023-05-22,Programming,Rahul,60,2800
+C011,2023-06-08,Design,Riya,45,1100
+C012,2023-06-20,Programming,Amit,80,3500
+C013,2024-08-12,Coding,Sakshi,120,10000
+C014,2024-08-15,Mentorship,Muskan,90,5000
+C015,2024-09-23,Health & Care, Dr. Amitabh,60,100000
